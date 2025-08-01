@@ -18,7 +18,7 @@ const Home = () => {
       </div>
       <div className="crypto-table">
         <div className="table-layout">
-          <p>#</p>
+          <p>##</p>
           <p>Coins</p>
           <p>Price</p>
           <p>24H Change</p>
