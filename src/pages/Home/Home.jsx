@@ -8,8 +8,10 @@ const Home = () => {
           Largest <br /> Crypto Marketplace
         </h1>
         <p>
-          Welcome to the world's largest cryptocurrency marketplace. Sign up to
-          explore more about cryptos.
+          <strong>
+            Welcome to the world's largest cryptocurrency marketplace. Sign up
+            to explore more about cryptos.
+          </strong>
         </p>
         <form>
           <input type="text" placeholder="Search crypto.." />
