@@ -14,7 +14,7 @@ const Home = () => {
           </strong>
         </p>
         <form>
-          <input type="text" placeholder="Search crypto.." />
+          <input type="text" placeholder="Search crypto...." />
           <button type="submit">Search</button>
         </form>
       </div>
