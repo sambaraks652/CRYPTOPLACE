@@ -20,7 +20,7 @@ const Home = () => {
       </div>
       <div className="crypto-table">
         <div className="table-layout">
-          <p>###</p>
+          <p>##</p>
           <p>Coins</p>
           <p>Price</p>
           <p style={{ textAlign: "center" }}>24H Change</p>
