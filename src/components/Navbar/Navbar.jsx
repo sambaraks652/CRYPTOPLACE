@@ -18,11 +18,6 @@ const Navbar = () => {
         break;
       }
 
-      case "kes": {
-        setCurrency({ name: "kes", symbol: " KSh" });
-        break;
-      }
-
       default:
         break;
     }
@@ -40,7 +35,6 @@ const Navbar = () => {
         <select onChange={currencyHandler}>
           <option value="usd">USD</option>
           <option value="eur">EUR</option>
-          <option value="kes">KES</option>
         </select>
         <button>
           Sign Up <img src={arrow_icon} alt="arrow-image" />
